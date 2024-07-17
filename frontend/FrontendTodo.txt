@@ -1,0 +1,10 @@
+//Create a Home page strictly having a login dialog box using Customer option or Admin option
+
+//After Admin login redirect admin to admin dashboard where admin will see the list of all the present customers
+
+//Admin have the previlage to remove a customer from community (customer delete route) and logout from the session
+
+//After customer login redirect customer to a customer profile page where he or she will see the basic info provided by them
+basically customer info
+
+//Customer have the previlage to update info about themselves and logout and delete their own account
